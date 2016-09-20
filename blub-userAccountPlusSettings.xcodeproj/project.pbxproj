@@ -102,6 +102,7 @@
 				TargetAttributes = {
 					605833421D91134B004B3EF9 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = G8U7GRGQ5A;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -266,6 +267,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = G8U7GRGQ5A;
 				INFOPLIST_FILE = "blub-userAccountPlusSettings/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "me.telaport.blub-userAccountPlusSettings";
@@ -278,6 +280,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = G8U7GRGQ5A;
 				INFOPLIST_FILE = "blub-userAccountPlusSettings/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "me.telaport.blub-userAccountPlusSettings";
